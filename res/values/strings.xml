@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuardianDog</string>
+    <string name="label_voz">Voz</string>
+    <string name="label_dados">Dados</string>
+</resources>
